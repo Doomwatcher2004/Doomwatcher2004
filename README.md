@@ -27,11 +27,6 @@
 <p>&emsp;&emsp;一位兴趣驱动自我的Coder 擅长解决开发问题，</p>
 <p>&emsp;&emsp;多方面解决方案，喜欢攻克艰难的知识点，喜欢设计系统架构，我想从一个工程师变成一个全栈架构师，梦想很远，全力去追</p>
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://gitee.com/cold-abyss_admin/gulimallRepo">
-<a href="https://gitee.com/cold-abyss_admin/JavaDataStructure">
-</div>
 
 💪 正在学习: 
 
