@@ -11,13 +11,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://doomwatcher.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
 
@@ -28,9 +22,9 @@
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;小伙伴们好呀 我是冷环渊，04年，今年18岁，从事Java后端方向，学习实践经验比较丰富，常出没在b站各大机构java技术视频中。</p>
-<p>&emsp;&emsp;我十分喜欢将自己的所学应用到生活中，喜爱动手实践，对后端性能和优雅的编码吸引，被前端丝滑的交互，漂亮的页面吸引，对网安的守护，细致，策略吸引，被运维的解决问题，自动化吸引，被测试的 无数有趣用例吸引，</p>
-<p>&emsp;&emsp;一位兴趣驱动自我的Coder 擅长解决开发问题，多方面解决方案，喜欢攻克艰难的知识点，喜欢设计系统架构，</p>
-<p>&emsp;&emsp;我想从一个工程师变成一个全栈架构师，梦想很远，权力去追</p>
+<p>&emsp;&emsp;我十分喜欢将自己的所学应用到生活中，喜爱动手实践，对后端性能和优雅的编码吸引，被前端丝滑的交互，漂亮的页面吸引，</p>
+<p>&emsp;&emsp;对网安的守护，细致，策略吸引，被运维的解决问题，自动化吸引，被测试的 无数有趣用例吸引，一位兴趣驱动自我的Coder 擅长解决开发问题，</p>
+<p>&emsp;&emsp;多方面解决方案，喜欢攻克艰难的知识点，喜欢设计系统架构，我想从一个工程师变成一个全栈架构师，梦想很远，全力去追</p>
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -94,179 +88,3 @@
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
-
-# 🚀 Actions
-
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<br>
-
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
-<br>
-
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br>
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-<br>
-
-<!-- 最近博客和豆瓣动态 -->
-<table align="center">
-<tr>
-<td valign="top">    
-
-### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
-  
-<!-- START_SECTION:blog -->
-* <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
-* <a href='https://sunguoqi.com/posts/fiddler.html' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
-* <a href='https://sunguoqi.com/posts/4243.html' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
-* <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
-* <a href='https://sunguoqi.com/posts/cuiqingcai.html' target='_blank'>21年终总结&&关于我自学爬虫的点滴经历</a> - 2021-12-31
-<!-- END_SECTION:blog -->
-  
-</td>
-    
-<td valign="top">
-  
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
-* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
-<!-- END_SECTION:douban -->
-  
-</td> 
-</tr>
-</table>
-
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-  
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    253 commits    ██████████░░░░░░░░░░░░░░░   40.22% 
-🌆 Daytime    166 commits    ██████░░░░░░░░░░░░░░░░░░░   26.39% 
-🌃 Evening    135 commits    █████░░░░░░░░░░░░░░░░░░░░   21.46% 
-🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
-Wednesday    113 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
-Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
-Friday       166 commits    ██████░░░░░░░░░░░░░░░░░░░   26.39% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-Sunday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.97%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   38 mins             ███████████████░░░░░░░░░░   61.62% 
-HTML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
-CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
-Vue.js                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
-
-🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 07/06/2022 01:52:48 UTC
-<!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/bilibili.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
-    </td>
-  </tr>
-</table>
-
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
-</div>
